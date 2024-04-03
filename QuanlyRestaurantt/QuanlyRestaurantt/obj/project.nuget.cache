@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TIvUpzN23ViBpNfF8S/wsD34e5DPgcYLqe4B8h4AKrk80iG6URDfkMDnyk8yE1dz5m0Og0XdVKw0Xz5ykgPYlw==",
+  "dgSpecHash": "1N53HkqUoLGxPnptfcpNeKWouEnHt7zn5Rzt0/I9vNua3D693wXQePkDly8pOYRGFVVw2OPZ4JFZFZwD/arLPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\QuanlyRestaurantt\\QuanlyRestaurantt\\QuanlyRestaurantt.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\QuanTriDuAn\\QuanlyRestaurantt\\QuanlyRestaurantt\\QuanlyRestaurantt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.reportviewer.winforms\\10.0.40219.1\\microsoft.reportviewer.winforms.10.0.40219.1.nupkg.sha512",
